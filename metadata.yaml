@@ -1,0 +1,26 @@
+_repo: Butchering-and-curing-meats-in-China_68282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Levine, Carl Oscar
+    gutenberg_agent_id: '54692'
+    url: http://www.gutenberg.org/2009/agents/54692
+description: ''
+gutenberg_issued: '2022-06-10'
+identifiers:
+  gutenberg: '68282'
+language: en
+pgterms:marc904: https://archive.org/details/ButcheringAndCuringMeatsInChina/mode/2up
+pgterms:marc905: 20220525155312levine
+pgterms:marc906: '1921'
+pgterms:marc907: CN
+production_note: Anonymous (This book was produced from images made available by the
+  HathiTrust Digital Library and the Internet Archive.)
+publication_note: China :Canton Christian College,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Butchering and curing meats in China
+url: http://www.gutenberg.org/ebooks/68282
