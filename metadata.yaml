@@ -1,11 +1,16 @@
 _repo: Butchering-and-curing-meats-in-China_68282
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68282-h/images/cover.jpg
 creator:
   author:
     agent_name: Levine, Carl Oscar
     gutenberg_agent_id: '54692'
     url: http://www.gutenberg.org/2009/agents/54692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68282#Butchering-and-curing-meats-in-China
 gutenberg_issued: '2022-06-10'
 identifiers:
   gutenberg: '68282'
